@@ -1,2 +1,2 @@
 # BachelorProject
-The "Results" branch contains a folder with all results of our simulation study in R, as well as a sav file for SPSS.
+The "Results" branch contains a folder with all results per row of our simulation study in R, the full results and as a sav file for SPSS.
